@@ -4,6 +4,10 @@ LoveLonelyTime's RISC-V core.
 
 ![RISC-V](./doc/RISC-V_Horizontal_Color.png)
 
+New!!!: A brand new architecture RISC-V RV32G processor for SuperScalar, Out-Of-Order, dynamic scheduling and freely configured execution core is under development!
+
+[LLTRISC-V-Exq](https://github.com/LoveLonelyTime/LLTRISC-V-Exq)
+
 ## Feature
 
 - 5-Stages pipeline.
